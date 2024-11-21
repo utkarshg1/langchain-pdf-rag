@@ -1,5 +1,8 @@
 pypdf
+langchain
+langgraph
 langchain_community
 langchain-openai
+tiktoken
 python-dotenv
 ipykernel
