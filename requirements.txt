@@ -1,3 +1,5 @@
 pypdf
 langchain_community
 langchain-openai
+python-dotenv
+ipykernel
